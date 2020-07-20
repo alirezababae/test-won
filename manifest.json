@@ -6,6 +6,9 @@
   "background_color": "#FFE9D2",
   "theme_color": "#FFE1C4",
   "orientation": "portrait-primary",
+  "permissions": [
+    "serial"
+  ],
   "icons": [
     {
       "src": "/img/icons/icon-72x72.png",
